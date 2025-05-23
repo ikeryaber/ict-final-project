@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Iker</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="script.js"></script>
+  </head>
+  <body>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/page1.html" aria-current="page">Ict Final Project</a>
+      <a href="/page2.html" aria-current="page">Larissa</a>
+      <a href="/page3.html" aria-current="page">Valeria</a>
+      <a href="/page4.html" aria-current="page">Sebastián</a>
+      
+      
+    </nav>
+    <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu-T9vK6UYC9UvGv8xFGSirs6eGNJYUjb41A&s"
+    <main>
+      <h2>About sports - i have a lot o fun playing soccer because it is my hobby and all the days y play with other people that at are my friends and y play tournaments around the world and y play with teammates that are good to then we play in around the world. About me y born in 2011 in september 12 and i have one brother and one dog</h2>
+   
