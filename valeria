@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Valeria</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="script.js"></script>
+  </head>
+  <body>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/page1.html" aria-current="page">Ict Final Project</a>
+      <a href="/page2.html" aria-current="page">Larissa</a>
+      <a href="/page4.html" aria-current="page">Sebastián</a>
+      <a href="/page5.html" aria-current="page">Iker</a>
+    </nav>
+    <main>
+    
+      <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFlLfcp8enC_0zT4cYtavUcQQpkpydvY1dYA&s"
+
+      <h2>Travel: I like to travel because I like to know new places and see how different it is compared to my country. I also like to know about new cultures and how things work in different countries.I practice gymnastics and this makes me travel more because the competitions are in different parts of Mexico and the world.About me - my birthday is on August 26th 2011. I have 2 brothers , a boy of 18 and a girl of 8. I have a hobby that is Olympic gymnastics. I have been doing gymnastics since I was 3 years old.I I train from 5pm to 9pm from Monday to friday and from 10am to 2pm on saturday. Another hobby that I do in my free time is painting because it relaxes me.</h2>
+    
+
+    </main>
+  </body>
+</html>
