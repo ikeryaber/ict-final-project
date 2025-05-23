@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Larisa</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="script.js"></script>
+  </head>
+  <body>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/page1.html" aria-current="page">Ict Final Project</a>
+      <a href="/page3.html" aria-current="page">Valeria</a>
+      <a href="/page4.html" aria-current="page">Sebastián</a>
+      <a href="/page5.html" aria-current="page">Iker</a>
+    </nav>
+    <main>
+
+      <h2>travel - I love to travel. I like to learn about new cultures and history of the places around the world and would like to travel to every place possible. My favourite place to go in the world is Amsterdam because of all the things to do there and because it is so beautiful all year round. In Mexico my favourite place is Puerto escondido. I go every summer with my dad. I love Puerto Escondido because its beaches are very beautiful but very fun.About me - my birthday is on January 20th 2011. I have a little brother, a dog and a cat. My parents are divorced so I am one day in my dad’s house and the next in my mother’s house.</h2>
+
+
+      
+      <img src= "https://wallpapers.com/images/featured/fondos-de-paisajes-naturales-k9tfch0hpfjbaxel.jpg" alt="Hobbies" style="max-width: 300px; width: 100%; border-radius: 10px; margin-bottom: 20px;"
+      
+
+    </main>
+  </body>
+</html>
